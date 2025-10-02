@@ -1,4 +1,4 @@
 # New project
 
 this is the new practice project to learn push local repo
-Creater by Manas Ojha.
+Creater by Manas Ojha.!
